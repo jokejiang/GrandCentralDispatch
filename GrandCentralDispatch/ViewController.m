@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+//    hello
+    
 }
 
 //在iOS里实现多线程的技术有很多，使用起来最简单的是GCD，执行效率最高的也是GCD，是相对底层的API，都是C的函数。GCD是苹果最推荐的多线程技术，GCD的核心是往dispatch queue里添加要执行的任务，由queue管理任务的执行。
